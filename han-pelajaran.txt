@@ -3,7 +3,6 @@ RENACANA PELAJARAN HAN
 javascript
 composer
 git
-c
 css
 html
 framework
